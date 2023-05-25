@@ -1,0 +1,8 @@
+C:\Programacion 2\Sesion 2 Programacion Estructurada\Tarea estructura de datos\Tarea estructura de datos\bin\Debug\Tarea estructura de datos.exe.config
+C:\Programacion 2\Sesion 2 Programacion Estructurada\Tarea estructura de datos\Tarea estructura de datos\bin\Debug\Tarea estructura de datos.exe
+C:\Programacion 2\Sesion 2 Programacion Estructurada\Tarea estructura de datos\Tarea estructura de datos\bin\Debug\Tarea estructura de datos.pdb
+C:\Programacion 2\Sesion 2 Programacion Estructurada\Tarea estructura de datos\Tarea estructura de datos\obj\Debug\Tarea estructura de datos.csproj.AssemblyReference.cache
+C:\Programacion 2\Sesion 2 Programacion Estructurada\Tarea estructura de datos\Tarea estructura de datos\obj\Debug\Tarea estructura de datos.csproj.SuggestedBindingRedirects.cache
+C:\Programacion 2\Sesion 2 Programacion Estructurada\Tarea estructura de datos\Tarea estructura de datos\obj\Debug\Tarea estructura de datos.csproj.CoreCompileInputs.cache
+C:\Programacion 2\Sesion 2 Programacion Estructurada\Tarea estructura de datos\Tarea estructura de datos\obj\Debug\Tarea estructura de datos.exe
+C:\Programacion 2\Sesion 2 Programacion Estructurada\Tarea estructura de datos\Tarea estructura de datos\obj\Debug\Tarea estructura de datos.pdb
